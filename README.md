@@ -7,4 +7,4 @@ A essência do projeto está em responder a uma série de perguntas que ajudarã
 
 Te convido a conferir por meio deste link:
 
-![Buzzfeed](./src/assets/images/Buzzfeed.png)
+
